@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "uname": "admin",
+      "upass": "admin"
+    },
+    {
+      "id": 2,
+      "uname": "zg",
+      "upass": "123"
+    },
+    {
+      "id": 4,
+      "uname": "fss",
+      "upass": "fss"
+    },
+    {
+      "id": 1557414633330,
+      "uname": "fss",
+      "upass": "fss"
+    },
+    {
+      "id": 1557414639314,
+      "uname": "fss",
+      "upass": "fss"
+    },
+    {
+      "id": 1557414640692,
+      "uname": "fss",
+      "upass": "fss"
+    },
+    {
+      "id": 1557414641821,
+      "uname": "fss",
+      "upass": "fss"
+    },
+    {
+      "id": 1557414641822
+    },
+    {
+      "id": 1557414641823
+    },
+    {
+      "id": 1557414641824
+    }
+  ]
+}
